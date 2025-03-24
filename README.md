@@ -1,6 +1,4 @@
-# RTX-Discord-Server-Website
-This repository contains the source code for the RTX Discord server website. The website provides information about the server, updates, and events related to the Roblox game.
-git clone https://github.com/username/username.github.io.git
+git clone https://github.com/dhegehe33/RTX-Discord-Server-Website.githttps://github.com/username/username.github.io.git
 cd username.github.io
 # أنشئ ملف index.html وضع فيه الكود التالي:
 echo "<!DOCTYPE html>
